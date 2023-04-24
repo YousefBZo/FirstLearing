@@ -1,2 +1,2 @@
-# FirstLearing
+# LearnGitAndGITHUB
 this is first 
